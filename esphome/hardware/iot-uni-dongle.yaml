@@ -30,6 +30,7 @@ ota:
 # Enable WiFi default access point
 wifi:
   ap:
+    ssid: "guest AC"
     password: "12345678"
 
 # Enable captive portal
