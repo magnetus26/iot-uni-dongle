@@ -26,6 +26,7 @@ api:
 
 # Enable OTA
 ota:
+  - platform: esphome
 
 # Enable WiFi default access point
 wifi:
